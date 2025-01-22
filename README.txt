@@ -1,4 +1,4 @@
-## Executar no terminal:
+Executar no terminal:
 
 python3 Assembler.py entrada.txt
 
